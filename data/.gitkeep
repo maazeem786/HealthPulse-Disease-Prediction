@@ -1,0 +1,3 @@
+# Placeholder for training data
+# This directory contains training data for the HealthPulse model.
+# The model will generate synthetic data if this file is not present.
